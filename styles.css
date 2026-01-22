@@ -21,3 +21,14 @@
 .box-rem{
     width: 15rem;
 }
+
+.box-em{
+    font-size: 20px;
+    width: 1em;
+}
+.box-vw{
+    width: 30vw;
+}
+.box-vh{
+    height: 20vh;
+}
